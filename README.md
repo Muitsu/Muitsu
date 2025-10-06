@@ -1,7 +1,7 @@
 <!-- Modern GitHub Profile README for Muitsu -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/1020647850?v=4" width="120" alt="Muitsu's Avatar" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/54874915?v=4" width="120" alt="Muitsu's Avatar" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">Hi, I’m Ahmad Muizzuddin <span style="font-size:1.2em;">(Muitsu)</span> 👋</h1>
@@ -67,6 +67,16 @@ Secure, simple, and developer-friendly metric storage for Flutter apps.<br>
   <a href="mailto:ahmadmuizzuddin13@gmail.com"><img src="https://img.shields.io/badge/Email-ahmadmuizzuddin13@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahmad-muizzuddin-166b691b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Muizzuddin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
+
+## 📊 My Github Stats
+<a href="https://github.com/Muitsu">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Muitsu&theme=outrun&rank_icon=percentile" alt="I'm not the best, but working hard towards it" />
+</a>
+
+<a href="https://github.com/Muitsu">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muitsu&theme=outrun&layout=compact&hide=java,blade" alt="Mirza's most used languages" />
+</a>
+
 
 ---
 
