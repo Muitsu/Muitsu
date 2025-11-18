@@ -44,7 +44,7 @@
 ## 🚩 Featured Project
 
 <a href="https://github.com/Muitsu/flutter_securemetric">
-  <img align="right" width="100" src="https://raw.githubusercontent.com/Muitsu/flutter_securemetric/main/.github/assets/securemetric.png" alt="flutter_securemetric logo"/>
+  <img align="right" width="100" src="https://raw.githubusercontent.com/Muitsu/flutter_securemetric/refs/heads/main/assets/banner.png" alt="flutter_securemetric logo"/>
 </a>
 
 **[flutter_securemetric](https://github.com/Muitsu/flutter_securemetric)**  
